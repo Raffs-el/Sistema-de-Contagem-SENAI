@@ -4,7 +4,7 @@
 
 ## 🎯 Objetivo
 
-Sistema criado para cadastro de peças atendendo os seguintes requisitos:
+Sistema criado para contagem e cadastro de peças atendendo os seguintes requisitos:
 - Se a peça possuir um peso superior a 100 gramas, autorizar cadastro;
 - Se a quantidade de peças por caixa for superior a 10, informar que não tem capacidade suficiente;
 - Caso a peça tenha um nome com quantidade de caracteres inferior a 3, informar uma mensagem de erro.
